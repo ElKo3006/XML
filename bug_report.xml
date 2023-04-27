@@ -1,0 +1,11 @@
+  <bug_report>
+<ID>2234</ID>
+<Title>Search error on [My lists] page </Title>
+<Enviroment>macOS, Google Chrome Version 112.0.5615.49</Enviroment>
+<Build>1.1</Build>
+<Severity>Minor</Severity>
+<Priority>Low</Priority>
+<Steps>Navigate to toramp.com, Go to the My Lists page3, Enter The wire in the search field and press enter on your keyboard</Steps>
+<Expected result>The Search results page displays series with keywords in the title</Expected result>T
+<Actual result>Page not found (404 error)</Actual result>
+  </bug_report>
